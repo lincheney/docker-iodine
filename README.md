@@ -10,6 +10,6 @@ Available on Docker Hub: https://hub.docker.com/r/lincheney/iodined/
 
 ## Base image
 
-`debian:stretch-slim` is used as the base image.
+[debian:stable-slim](https://hub.docker.com/r/library/debian/) is used as the base image.
 
 I've had [issues](https://github.com/Adam-Ant/docker-iodine/issues/6) when using Alpine.
