@@ -1,4 +1,4 @@
-# docker-iodine
+# docker-iodined
 [Iodine](http://code.kryo.se/iodine/) in Docker
 
 See also https://github.com/yarrick/iodine
